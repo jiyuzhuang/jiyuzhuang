@@ -4,7 +4,7 @@ I'am currently working on TypeScript.
 
 ### 🚀 Goals in 2021
 - Start a 🆕 speaking language 🇯🇵;
-- Try an instrument 🎹;
+- Try MIDI keyboard 🎹;
 - Code in a 🆕 programming language 👾;
 - Finish climbing course 🧗🏻;
 - Buy myself a snowboard 🏂;
