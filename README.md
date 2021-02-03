@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🚀 Goals in 2021
+### 🚀 Goals in 2021
 - Start to learn a new speaking language 🇯🇵;
 - Learn an instrument 🎹;
 - Learn a programming language 👾.
