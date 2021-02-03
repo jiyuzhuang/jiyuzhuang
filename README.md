@@ -8,7 +8,8 @@ I'am currently working on TypeScript.
 - Code in a 🆕 programming language 👾;
 - Finish climbing course 🧗🏻;
 - Buy myself a snowboard 🏂;
-- Hike in Corsica 🏝.
+- Hike in Corsica 🏝;
+- Drink more tea and less coffee 🍵.
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
