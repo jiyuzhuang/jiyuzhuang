@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# 🚀 Goals in 2021
+- Start to learn a new speaking language 🇯🇵;
+- Learn an instrument 🎹;
+- Learn a programming language 👾.
+
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
