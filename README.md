@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi, I'm JZ 👋
+
+I'am currently working on TypeScript.
 
 ### 🚀 Goals in 2021
-- Start to learn a new speaking language 🇯🇵;
-- Learn an instrument 🎹;
-- Learn a programming language 👾.
+- Start a 🆕 speaking language 🇯🇵;
+- Try an instrument 🎹;
+- Code in a 🆕 programming language 👾;
+- Finish climbing course 🧗🏻;
+- Buy myself a snowboard 🏂;
+- Hike in Corsica 🏝.
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
