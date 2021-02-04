@@ -1,6 +1,6 @@
 ### Hi, I'm JZ 👋
 
-- 👨🏻‍💻 I'm currently working with TypeScript;
+- 🍁 I'm currently working with TypeScript;
 - 🍀 I can write Python, C++ and Java code;
 - 🌻 I'm open to new languages in work.
 
