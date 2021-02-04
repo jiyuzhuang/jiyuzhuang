@@ -1,14 +1,14 @@
 ### Hi, I'm JZ 👋
 
-I'am currently working on TypeScript.
+- 👨🏻‍💻 I'm currently working with TypeScript;
+- 🎾 I can write Python, C++ and Java code;
+- 🌻 I'm open to new languages in work.
 
 ### 🚀 Goals in 2021
-- Start a 🆕 speaking language 🇯🇵;
+
+- Start to learn a new speaking language 🇯🇵;
 - Try MIDI keyboard 🎹;
-- Code in a 🆕 programming language 👾;
-- Finish climbing course 🧗🏻;
-- Buy myself a snowboard 🏂;
-- Hike in Corsica 🏝;
+- Code in a new programming language 👾;
 - Drink more tea and less coffee 🍵.
 
 <!--
