@@ -4,11 +4,13 @@
 >
 > -- Romain Rolland
 
+### 🧸 About Me
+
 - 🍁 I'm currently working with TypeScript;
-- 🍀 I can write, but not limited, Python, C++ and Java code;
+- 🍀 I can write, but not limited to, Python, C++ and Java code;
 - 🌻 I'm open to new languages in work.
 
-### 🚀 Goals in 2021
+### 🚀 Goals In 2021
 
 - Start to learn a new speaking language 🇯🇵;
 - Try MIDI keyboard 🎹;
