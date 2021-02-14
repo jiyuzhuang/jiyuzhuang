@@ -1,6 +1,8 @@
 ### Hi, I'm JZ 👋
 
-> Il n'y a qu'un héroïsme au monde, c'est de voir tel qu'il est et l'aimer.
+> Il n'y a qu'un héroïsme au monde : c'est de voir le monde tel qu'il est et l'aimer.
+>
+> -- Romain Rolland
 
 - 🍁 I'm currently working with TypeScript;
 - 🍀 I can write, but not limited, Python, C++ and Java code;
