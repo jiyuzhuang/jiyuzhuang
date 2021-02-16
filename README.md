@@ -12,10 +12,10 @@
 
 ### 🚀 Goals In 2021
 
-- Start to learn a new speaking language 🇯🇵;
-- Try MIDI keyboard 🎹;
-- Code in a new programming language 👾;
-- Drink more tea and less coffee 🍵.
+- 🇯🇵 Start to learn a new speaking language;
+- 🎹 Try MIDI keyboard;
+- 👾 Code in a new programming language;
+- 🍵 Drink + tea / - coffee.
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
