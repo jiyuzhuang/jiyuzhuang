@@ -1,4 +1,4 @@
-Hi, I'm JZ 👋
+Hi, I'm JZ 🌻
 ==============
 
 > Il n'y a qu'un héroïsme au monde : c'est de voir le monde tel qu'il est et l'aimer.
@@ -9,7 +9,6 @@ Hi, I'm JZ 👋
 
 - 🍁 I'm currently working with TypeScript;
 - 🍀 I can write, but not limited to, Python, C++ and Java code;
-- 🌻 I'm open to new languages in work.
 
 ### 🚀 Goals In 2021
 
