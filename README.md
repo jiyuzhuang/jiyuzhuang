@@ -8,14 +8,15 @@ Hi, I'm JZ 🌻
 ### 🧸 About Me
 
 - 🍁 I'm currently working in Python and TypeScript;
-- 🍀 I also want to code in Go and C++.
 
 ### 🚀 Goals In 2021
 
 - 🇯🇵 Start to learn a new speaking language;
-- 👾 Code in a new programming language;
-- 🎹 Try MIDI keyboard;
-- 🍵 Drink +tea / -coffee.
+- 👨🏻‍💻 Program in a new programming language;
+- 🧗🏻 Improve climbing skills;
+- 👟 Keep running;
+- 🏂 Try snowboard in winter;
+- 🍵 Tea, coffee and some alcohol.
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
