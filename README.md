@@ -7,8 +7,8 @@ Hi, I'm JZ 🌻
 
 ### 🧸 About Me
 
-- 🍁 I'm currently working with TypeScript;
-- 🍀 I can write, but not limited to, Python, C++ and Java code;
+- 🍁 I'm currently working in Python and TypeScript;
+- 🍀 I also want to code in Go and C++.
 
 ### 🚀 Goals In 2021
 
