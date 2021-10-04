@@ -7,16 +7,16 @@ Hi, Bienvenu 🌻
 
 ### 🧸 About Me
 
-- 🍁 I'm currently working in Python and TypeScript;
+Writing Python and TypeScript
 
 ### 🚀 Goals In 2021
 
-- 🇯🇵 Start to learn a new speaking language;
-- 👨🏻‍💻 Program in a new programming language;
-- 🧗🏻 Improve climbing skills;
-- 👟 Keep running;
-- 🏂 Try snowboard in winter;
-- 🍵 Tea, coffee and some alcohol.
+- 🇯🇵 Learn a language
+- 👾 Learn anothor one
+
+- 🏃🏻 Running
+- 🧗🏻 Climbing
+- 🏂 Snowboard
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
