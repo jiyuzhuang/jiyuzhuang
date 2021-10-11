@@ -11,9 +11,8 @@ Writing Python and TypeScript
 
 ### 🚀 Goals In 2021
 
-- 🇯🇵 Learn a language
-- 👾 Learn anothor one
-
+- 🇯🇵 Start learing Japanese
+- 👾 Learn Go programming language
 - 🏃🏻 Running
 - 🧗🏻 Climbing
 - 🏂 Snowboard
