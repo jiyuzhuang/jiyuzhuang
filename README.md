@@ -11,7 +11,7 @@ Writing Python and TypeScript
 
 ### 🚀 Goals In 2021
 
-- 🇯🇵 Start learing Japanese
+- 🇪🇸 Start learing Japanese
 - 👾 Learn Go programming language
 - 🏃🏻 Running
 - 🧗🏻 Climbing
