@@ -12,7 +12,7 @@ Writing Python and TypeScript
 ### 🚀 Goals In 2021
 
 - 🇪🇸 Start learing Spanish
-- 👾 Learn Go programming language
+- 🍙 Learn Go programming language
 - 🏃🏻 Running
 - 🧗🏻 Climbing
 - 🏂 Snowboard
