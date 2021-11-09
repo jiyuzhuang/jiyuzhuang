@@ -7,12 +7,16 @@ Hello, I'm jz 🌻
 
 ### 🧸 About Me
 
-Writing Python and TypeScript
+- Fullstack Software Engineer
+- Writing _Python_ and _TypeScript_
+- Learning _Golang_
+- Missing _C++_
+- Loving _Classical Music_, _Outdoor Sports_ and _History_
 
 ### 🚀 Goals In 2021
 
-- 🇪🇸 Start learing Spanish
-- 🍙 Learn Go programming language
+- 🇪🇸 Start learning Spanish
+- 🍙 Go programming language
 - 🏃🏻 Running
 - 🧗🏻 Climbing
 - 🏂 Snowboard
