@@ -10,7 +10,6 @@ Hello, I'm jz 🌻
 - Fullstack Software Engineer
 - Writing _Python_ and _TypeScript_
 - Learning _Golang_
-- Missing _C++_
 - Loving _Classical Music_, _Outdoor Sports_ and _History_
 
 ### 🚀 Goals In 2021
