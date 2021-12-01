@@ -14,11 +14,13 @@ Hello, I'm jz 🌻
 
 ### 🚀 Goals In 2021
 
-- 🇪🇸  Start learning Spanish
-- 🍙  Go programming language
-- 🏃🏻  Running
-- 🧗🏻  Climbing
-- 🏂  Snowboard
+- 🇪🇸 Start learning Spanish
+- 🍙 Go programming language
+- 🏃🏻 Running
+- 🧗🏻 Climbing
+- 🚴 Cycling
+- 🏔 Mountaineering
+- 🏂 Snowboard
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
