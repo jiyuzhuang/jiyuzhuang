@@ -12,15 +12,23 @@ Hello, I'm jz 🌻
 - Learning _Golang_
 - Loving _Classical Music_, _Outdoor Sports_ and _History_
 
-### 🚀 Goals In 2021
+### 🌎 Languages & Languages 🖥
 
-- 🇪🇸 Start learning Spanish
-- 🍙 Go programming language
-- 🏃🏻 Running
-- 🧗🏻 Climbing
-- 🚴 Cycling
-- 🏔 Mountaineering
-- 🏂 Snowboard
+- Spanish
+- Go programming language
+
+### 🌻 Objectifs in 2022
+
+- 🥾 GR20 Trek
+- 🏄🏻 Surfing
+
+### 🌻 Objectifs in 2021
+
+- 🏃🏻 Running ✅
+- 🧗🏻 Climbing ✅
+- 🚴 Cycling ✅
+- 🏔 Mountaineering ✅
+- 🏂 Snowboard ✅
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
