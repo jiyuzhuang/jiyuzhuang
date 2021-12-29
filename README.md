@@ -12,11 +12,6 @@ Hello, I'm jz 🌻
 - Learning _Golang_
 - Loving _Classical Music_, _Outdoor Sports_ and _History_
 
-### 🌎 Languages & Languages 🖥
-
-- Spanish
-- Go programming language
-
 ### 🌻 Objectifs in 2022
 
 - 🥾 GR20 Trek
