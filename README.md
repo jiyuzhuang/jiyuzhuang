@@ -22,7 +22,7 @@ Hello, I'm jz 🌻
 - 🥾 GR20 Trek
 - 🏄🏻 Surfing
 
-### 🌻 Objectifs in 2021
+### 🥊 Past Activities
 
 - 🏃🏻 Running ✅
 - 🧗🏻 Climbing ✅
