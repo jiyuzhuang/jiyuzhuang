@@ -9,8 +9,7 @@ Hello, I'm jz 🎏
 
 - Fullstack Software Engineer
 - Writing _Python_ and _TypeScript_
-- Learning _Golang_
-- Loving _Classical Music_, _Outdoor Sports_ and _History_
+- Loving _Outdoor Sports_, _Classical Music_ and _History_
 
 ### 🌻 Objectifs in 2022
 
