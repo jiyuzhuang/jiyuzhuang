@@ -13,9 +13,10 @@ Hello, I'm jz 🎏
 
 ### 🌻 Objectifs in 2022
 
-- 🏃🏻 Running 45.05 / 1000km
+- 🏃🏻 Running 67.42 / 1000km
   + January 20.85km
   + February 24.20km
+  + March 22.37km
 - 🥾 GR20 Trek
 - 🏄🏻 Surfing
 
