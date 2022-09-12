@@ -7,8 +7,7 @@ Hello, I'm jz 🎏
 
 ### 🧸 About Me
 
-- Fullstack Software Engineer
-- Writing _Python_ and _TypeScript_
+- Full Stack Software Engineer
 - Loving Outdoor Sports, Classical Music and History
 
 ### 🌻 Objectifs in 2022
