@@ -10,19 +10,6 @@ Hello, I'm jz 🎏
 - Full Stack Software Engineer
 - Loving Outdoor Sports, Classical Music and History
 
-### 🌻 Objectifs in 2022
-
-- 🥾 GR20 Trek ✅
-- 🏄🏻 ~~Surfing~~
-
-### 🥊 Past Activities
-
-- 🏃🏻 Running ✅
-- 🧗🏻 Climbing ✅
-- 🚴 Cycling ✅
-- 🏔 Mountaineering ✅
-- 🏂 Snowboard ✅
-
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
