@@ -7,7 +7,7 @@ Hello, I'm jz 🎏
 
 ### 🧸 About Me
 
-- Full Stack Software Engineer
+- Full-Stack Software Engineer
 - Loving Outdoor Sports, Classical Music and History
 
 <!--
