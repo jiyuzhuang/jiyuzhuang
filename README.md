@@ -8,7 +8,7 @@ Hello, I'm jz_ 🎏
 ### 🌻 About Me
 
 - Full-Stack Software Engineer
-- Practice snowboarding, Climbing and Surfing
+- Practice Snowboarding, Climbing and Surfing
 - Love Movies, Classical Music and History
 
 <!--
