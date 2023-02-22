@@ -5,10 +5,11 @@ Hello, I'm jz_ 🎏
 >
 > -- Romain Rolland
 
-### 🧸 About Me
+### 🌻 About Me
 
 - Full-Stack Software Engineer
-- Loving Outdoor Sports, Classical Music and History
+- Practice snowboarding, Climbing and Surfing
+- Love Movies, Classical Music and History
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
