@@ -7,7 +7,7 @@ Hello, I'm jz_ 🎏
 
 ### 🌻 About Me
 
-- Full Stack Software Engineer writing Python and TypeScript
+- Senior Software Engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
 - Practice Climbing, Snowboarding and _Surfing_
 - Love Movies, Classical Music and History
 
