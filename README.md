@@ -8,7 +8,7 @@ Hello, I'm jz_ 🎏
 ### 🌻 About Me
 
 - Senior Software Engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
-- Practice Climbing, Snowboarding and _Surfing_
+- Practice Climbing, Snowboarding and Surfing
 - Love Movies, Classical Music and History
 
 <!--
