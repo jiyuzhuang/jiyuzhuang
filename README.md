@@ -7,9 +7,9 @@ Hello, I'm jz_ 🎏
 
 ### 🌻 About Me
 
-- Senior Software Engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
-- Practice Climbing, Snowboarding and Surfing
-- Love Movies, Classical Music and History
+- Senior software engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
+- Practice climbing, snowboarding and surfing
+- Movies, classical music and history
 
 <!--
 **jiyuzhuang/jiyuzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
