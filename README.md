@@ -7,7 +7,7 @@ Hello, I'm jz_ 🎏
 
 ### 🌻 About Me
 
-- Senior software engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
+- Software engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/)
 - Practice climbing, snowboarding and surfing
 - Movies, classical music and history
 
