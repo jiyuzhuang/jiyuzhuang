@@ -7,5 +7,5 @@ Hello, I'm jz_ 🎏
 
 ### About Me
 
-- 💪 Software engineer working with [TypeScript](https://www.typescriptlang.org/) and [Python](https://www.python.org/);
-- 🏕️ Mountains lover.
+- 💻 Software engineer
+- 🏕️ Mountain addict
