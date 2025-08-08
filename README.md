@@ -10,4 +10,4 @@ Hello, I'm jz_ 🎏
 - 💻 Software engineer
 - 🏕️ Mountain addict
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/images/mona-hifive.gif)
+<img src="https://github.com/user-attachments/assets/33cba0aa-9f8d-4bac-80d5-3b644671e50e" width="400">
