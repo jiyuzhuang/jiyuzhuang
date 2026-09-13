@@ -7,7 +7,10 @@ Hello, I'm jz_ 🎏
 
 ### About Me
 
-- 💻 Software engineer
-- 🏕️ Mountain addict
+- 💻 Senior Fullstack & Tech Lead (TypeScript, Node.js, Python, scalable systems)
+- 🎯 Product-minded engineer with high ownership, bridging technical design and product decisions
+- 🚀 Constant learner exploring emerging tech and mastering AI-assisted workflows
+- 🏕️ Mountain addict & ultra trail runner
+- 📬 [LinkedIn](https://www.linkedin.com/in/jiyuzhuang) · [Email](mailto:jiyuzhuang.pro@gmail.com)
 
 <img src="https://github.com/user-attachments/assets/33cba0aa-9f8d-4bac-80d5-3b644671e50e" width="400">
